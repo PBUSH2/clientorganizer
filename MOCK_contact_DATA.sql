@@ -1,0 +1,10 @@
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Gloria', 'Mccoy', '5/9/1964', '46 Shopko Pass', 'gmccoy0@stumbleupon.com', '359-(988)741-0101');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Shawn', 'Peters', '7/21/1999', '56 Derek Junction', 'speters1@nih.gov', '63-(381)798-1873');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Dennis', 'Jones', '11/17/1945', '3 Utah Plaza', 'djones2@state.tx.us', '7-(467)930-8912');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Ruby', 'Parker', '5/1/2006', '76 Duke Place', 'rparker3@dot.gov', '86-(554)644-5079');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Pamela', 'Mason', '9/20/1963', '02 Erie Road', 'pmason4@samsung.com', '84-(642)598-9498');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Henry', 'Lynch', '11/18/1964', '958 Clove Court', 'hlynch5@cbsnews.com', '48-(849)255-6860');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Justin', 'Lane', '4/4/2003', '84830 Bunker Hill Trail', 'jlane6@yolasite.com', '420-(716)432-3046');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Arthur', 'Ortiz', '11/28/1965', '0 Donald Park', 'aortiz7@github.io', '33-(751)277-1013');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Martin', 'Adams', '5/26/1986', '6 Fulton Court', 'madams8@cpanel.net', '86-(579)709-8754');
+insert into contact (first_name, last_name, birth_date, address, email, phone) values ('Donna', 'Long', '4/6/1946', '2 Summit Pass', 'dlong9@sogou.com', '62-(736)640-3267');

@@ -1,0 +1,10 @@
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Kathleen', 'Sanders', '12/20/1992', '49767 Brickson Park Plaza', 'ksanders0@biglobe.ne.jp', '7-(472)994-9860');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Bruce', 'Stewart', '6/18/1974', '40 Veith Center', 'bstewart1@sohu.com', '7-(497)842-7643');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Howard', 'Cooper', '9/1/2010', '9 Talisman Crossing', 'hcooper2@sitemeter.com', '86-(542)493-8305');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Randy', 'George', '7/28/1950', '0 Debs Drive', 'rgeorge3@seattletimes.com', '86-(140)463-4803');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('David', 'Hayes', '1/26/1982', '7144 Linden Street', 'dhayes4@mapquest.com', '236-(889)237-9926');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('John', 'Cooper', '8/23/1961', '4574 Fuller Lane', 'jcooper5@histats.com', '63-(767)524-8155');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Clarence', 'Ferguson', '11/24/2004', '9955 Sutteridge Trail', 'cferguson6@hhs.gov', '86-(372)929-1807');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Harry', 'Stephens', '2/21/1953', '00359 Elmside Hill', 'hstephens7@wsj.com', '30-(582)179-6282');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Barbara', 'Walker', '6/7/1974', '96505 Fairview Circle', 'bwalker8@latimes.com', '225-(403)447-6326');
+insert into MOCK_DATA (first_name, last_name, birth_date, address, email, phone) values ('Mark', 'Alexander', '9/9/2000', '26453 Westport Pass', 'malexander9@nsw.gov.au', '57-(322)251-5567');
